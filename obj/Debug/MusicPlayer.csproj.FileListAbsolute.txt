@@ -1,0 +1,13 @@
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.AssemblyReference.cache
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MuchicPlayer.dll
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\bin\Debug\MuchicPlayer.pdb
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MuchicPlayer.MuchicPlayer.resources
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MuchicPlayer.dll
+C:\Users\Adria\source\repos\MusicPlayer\MusicPlayer\obj\Debug\MuchicPlayer.pdb
